@@ -19,6 +19,7 @@ Visual Studio Code
 <b></b>
 
 <h2>Program walk-through:</h2>
-<img src - "Screenshot 2024-12-20 at 2.13.54 PM">
+
+
 
 <b><b>
