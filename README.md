@@ -4,21 +4,21 @@
 
 Creating a random password generator is vital for cybersecurity. It ensures strong, unique passwords, reduces human error, prevents attacks, and simplifies compliance with security standards, strengthening the first line of defense against breaches.
 
-<b>?<b>
+<b><b>
 
 
 <h2>Languages and Utilities Used</h2>
 Python
 
- <b>?</b> 
+ <b></b> 
 
 
 <h2>Environments Used </h2>
 Visual Studio Code
 
-<b>?</b>
+<b></b>
 
 <h2>Program walk-through:</h2>
 
 
-<b>?<b>
+<b><b>
