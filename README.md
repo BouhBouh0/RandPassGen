@@ -7,7 +7,7 @@ Creating a random password generator is vital for cybersecurity. It ensures stro
 <b><b>
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Languages Used</h2>
 Python
 
  <b></b> 
